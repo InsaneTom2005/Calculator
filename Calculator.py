@@ -1,0 +1,10 @@
+#Nimish#Project 1
+print("Enter Your First Number",end=" =")
+n1=input()
+print("Enter Your Second Number",end=" =")
+n2=input()
+print("Sum Of First And Second Number =",int(n1)+int(n2))
+print("Subtract Of First And Second Number =",int(n1)-int(n2))
+print("Multiply Of First And Second Number =",int(n1)*int(n2))
+print("Divide Of First And Second Number =",int(n1)/int(n2))
+print("Is First Number Greater Than Second =",int(n1)>int(n2))
